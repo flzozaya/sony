@@ -1,0 +1,12 @@
+{
+  "package": "com.sonyfied.fandango",
+  "manifestVersion": 1,
+  "name": "Fandango",
+  "author": {
+    "name": "Emil Guareno",
+    "email": "emil@arcticloop.com"
+  },
+  "version": 1,
+  "versionName": "1.0.0",
+  "description": "Finds nearest movie theaters and movies'"
+}
